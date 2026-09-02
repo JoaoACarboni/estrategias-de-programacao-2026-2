@@ -1,0 +1,12 @@
+# Executáveis
+*.exe
+
+# Arquivos de compilação
+*.o
+*.obj
+
+# Pasta de saída
+output/
+
+# Configurações pessoais do VS Code
+.vscode/
