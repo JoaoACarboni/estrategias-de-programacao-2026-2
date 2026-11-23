@@ -2,6 +2,10 @@
  * Atividade Avaliativa 3 - Implementacao de Grafos em C
  * Estrategias de Programacao - TADS - UTFPR 2026/2
  *
+ * Integrantes:
+ *   - Diogo Calegari dos Reis
+ *   - Joao Antonio Carboni Gomes
+ *
  * Grafo nao direcionado, representado por matriz de adjacencia.
  * - DFS (busca em profundidade): recursiva, com backtracking
  * - BFS (busca em largura): usa uma fila

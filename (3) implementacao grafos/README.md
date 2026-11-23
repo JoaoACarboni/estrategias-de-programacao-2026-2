@@ -1,5 +1,9 @@
 # Atividade Avaliativa 3 - Implementação de Grafos em C
 
+**Integrantes:**
+- Diogo Calegari dos Reis
+- João Antonio Carboni Gomes
+
 Grafo não direcionado, representado por **matriz de adjacência**, com busca em profundidade (DFS) e busca em largura (BFS).
 
 ## Grafo utilizado
