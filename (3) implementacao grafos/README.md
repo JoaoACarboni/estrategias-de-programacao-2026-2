@@ -3,6 +3,7 @@
 **Integrantes:**
 - Diogo Calegari dos Reis
 - João Antonio Carboni Gomes
+- Felipe Yamada Watanabe
 
 Grafo não direcionado, representado por **matriz de adjacência**, com busca em profundidade (DFS) e busca em largura (BFS).
 
