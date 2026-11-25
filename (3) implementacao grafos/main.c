@@ -5,6 +5,7 @@
  * Integrantes:
  *   - Diogo Calegari dos Reis
  *   - Joao Antonio Carboni Gomes
+ *   - Felipe Yamada Watanabe
  *
  * Grafo nao direcionado, representado por matriz de adjacencia.
  * - DFS (busca em profundidade): recursiva, com backtracking
